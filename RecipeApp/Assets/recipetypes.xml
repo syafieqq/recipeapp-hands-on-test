@@ -1,0 +1,51 @@
+<recipe_types>
+    <type>
+        <id>1</id>
+        <name>Korean Recipes</name>
+    </type>
+    <type>
+        <id>2</id>
+        <name>Malaysia Guides</name>
+    </type>
+    <type>
+        <id>3</id>
+        <name>Malaysia Kitchen</name>
+    </type>
+    <type>
+        <id>4</id>
+        <name>Malaysian Food</name>
+    </type>
+    <type>
+        <id>5</id>
+        <name>Malaysian Recipes</name>
+    </type>
+    <type>
+        <id>6</id>
+        <name>Meal Plans</name>
+    </type>
+    <type>
+        <id>7</id>
+        <name>Mexican Recipes</name>
+    </type>
+    <type>
+        <id>8</id>
+        <name>Nyonya Recipes</name>
+    </type>
+    <type>
+        <id>9</id>
+        <name>Penang Recipes</name>
+    </type>
+    <type>
+        <id>10</id>
+        <name>Penang Food</name>
+    </type>
+    <type>
+        <id>11</id>
+        <name>Persian Recipes</name>
+    </type>
+    <type>
+        <id>12</id>
+        <name>Popular Recipes</name>
+    </type>
+</recipe_types>
+

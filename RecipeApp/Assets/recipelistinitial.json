@@ -1,0 +1,252 @@
+[{
+        "id": 0,
+        "catid": "1",
+        "name": "BEEF KIMBAP",
+        "description": "the Korean version of Japanese “maki,” or rice rolls. The flavor comes from sesame oil and individually seasoned meats and veggies.",
+        "ingredient": "6-7 sheets dried laver seaweed \n1 bag ready to use spinach (9 oz-10 oz) \n1 log of yellow pickled radish, or “danmuji” \n1 large carrot, or 2 medium sized carrots, peeled \n5 eggs \nkosher salt, divided \nsesame oil, divided \nolive oil, divided \nroasted sesame seeds, divided \nBEEF INGREDIENTS: \n \n1 lb ground beef \n2 cloves garlic, finely minced \n3 tablespoons soy sauce \n2 tablespoons sugar \n2 teaspoons sesame oil \nRICE INGREDIENTS: \n \n6 cups cooked, 3 cups uncooked short grain or sushi rice \n½ tablespoon sesame oil \n½ tablespoon olive oil \n½ tablespoon sesame seeds \n¼-½ teaspoon kosher salt, or to taste",
+        "step": "In a bowl, combine all the ingredients for the beef. Mix everything together by hand and set it aside to marinate while you prepare the other ingredients. When all the other ingredients are prepped, and the beef has had time to marinate, heat a large pan with some olive oil and fry the beef until it is nicely browned. Remove the beef with a slotted spoon into a bowl and set aside.\nAdd the entire 9 or 10 oz bag of ready to use spinach in salted boiling water. Boil for 30 seconds, and drain. Run cold water over it to stop the cooking, and squeeze out all the excess moisture with your hand. Transfer to a bowl and season with 1 teaspoon sesame oil, and a couple pinches of kosher salt. Mix well. Set aside.\nSlice the log of radish into ½” thick slices. Cut each slice into strips, so that you end up with thin long strips, about ½” thick in diameter. Set aside.",
+        "image": "0",
+        "img": ""
+    },
+    {
+        "id": 1,
+        "catid": "1",
+        "name": "KIMCHI DUMPLINGS",
+        "description": "Spice up your dumplings by adding kimchi to make juicy, plump and delicious dumplings that you just can't stop eating!!",
+        "ingredient": "1 pack dumpling wrappers, round-shaped \n Oil for pan-frying \nFor the Filling: \n 1 oz bunch Korean dried sweet potato noodles \n 8 oz ground pork \n 2 oz kimchi, squeeze and discard the excess kimchi juice and then finely sliced \n 1 teaspoon grated ginger \n 1 tablespoon chopped scallion \n 2 tablespoons soy sauce \n 1 teaspoon rice wine \n 1/2 teaspoon sesame oil \n 3 dashes white pepper \n 1 pinch salt \nDipping Sauce: \n Chinese black vinegar or Japanese ponzu for dipping \n Chopped Scallion \n Sesame seeds",
+        "step": "1 Cook the sweet potato noodles by following the packaging instructions. Once cooked, rinse with cold water, drained, pat dry with paper towels and roughly chopped them into short strands. \n2 Make the Dipping Sauce by combining all ingredients together in a small dip bowl. Set aside. \n3 Combine the chopped sweet potato noodles with the rest of the Filling ingredients. Stir to combine well until the filling becomes sticky and all mixed together.",
+        "image": "1",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "catid": "1",
+        "name": "BULGOGI",
+        "description": "Bulgogi and Bulgogi recipe. Bulgogi is marinated meat dish with Korean red chili paste. Anyone can make bulgogi with this easy bulgogi recipe",
+        "ingredient": "1 pound thinly sliced pork belly, or pork shoulder \n 1/2 medium onion, thinly sliced \n 2 - 3 scallions, roughly chopped \nMarinade: \n 3 tablespoons Korean red chili pepper paste*, gochujang \n 1 tablespoon Korean red chili pepper flakes, gochugaru \n 2 tablespoons soy sauce \n 2 tablespoons rice wine, or mirin \n 2 tablespoons sugar \n 1 tablespoon sesame oil \n 1 tablespoon minced garlic \n 1 tablespoon grated ginger \n 1/8 teaspoon black pepper",
+        "step": "Mix all marinade ingredients well.\nCut the pork belly into bite size pieces (about 2-inch long).\nCombine the meat, onion, and scallions with the marinade and mix well. Marinate for at least an hour.\nHeat a grill pan or a skillet over medium high heat and add the pork slices. Cook until the pork is cooked through and slightly caramelized, turning over once.",
+        "image": "2",
+        "img": ""
+    }, {
+        "id": 3,
+        "catid": "2",
+        "name": "Roti Jala",
+        "description": "Roti Jala, lacy pancakes. So yummy with chicken curry.",
+        "ingredient": " 1 3/4 cup all-purpose flour (1/2 lb) \n 1 1/2 cup low fat milk \n 1/2 cup water \n 1 egg \n 1/2 teaspoon salt \n 3/4 teaspoon turmeric powder \n 1/2 tablespoon oil or butter to grease the pan \nRecipe: Malaysian Chicken Curry \n 1 boneless/skinless chicken breast meat, cut into small cubes \n 3 tablespoons Instant Meat Curry Paste \n 3/4 cup water \n 1 tablespoon coconut milk \n 1 shallot, diced 1 tablespoon oil",
+        "step": "Sieve the flour and set aside. \n2 \nIn a big bowl, mix all the ingredients well together (except the oil) and strain the batter. \n3 \nAdd in 1/2 tablespoon of oil and set aside. \n4 \nHeat up a pan with medium heat and grease it with some butter or ghee. \n5 \nPour some batter into the mold and transfer the mold to the pan. \n6 \nAs the batter flows through the holes of the mold, make circular rounds around the pan to form the netty patterns. (Refer to the video above.) \n7 \nAfter the top is set and done or when the bottom turns light brown, transfer the Roti Jala out and fold it into triangle shape. \n8 \nArrange a few Roti Jala on a serving plate and add some curry chicken on the side and serve immediately. \nRecipe: Malaysian Chicken Curry \n1 \nHeat up a small pot and add in the oil. \n2 \nSaute the diced shallots until light brown. \n3 \nAdd in the curry paste. \n4 \nWhen it smells aromatic, add in the chicken meat and do a few quick stirs. \n5 \nAdd in the water and let it boil. \n6 \nLower the heat and simmer the curry for about 10-15 minutes. \n7 \nAdd in the coconut milk and serve hot.",
+        "image": "3",
+        "img": ""
+    }, {
+        "id": 4,
+        "catid": "2",
+        "name": "PENANG ASSAM LAKSA",
+        "description": "spicy and sour fish noodles, one of the most famous noodle dish from Malaysia",
+        "ingredient": "1 lb Mackerel fish \n 8 cups water \n 5 pieces assam keping, peeled tamarind \n 1 pack dried laksa noodles \nSpice Paste: \n 12 dried red chilies, seeded \n 5 fresh red chilies, seeded \n 8 small shallots \n 2 teaspoons belacan \n 1 stalk lemongrass, use only the white part, about 6 inches \nTamarind Juice: \n Tamarind, about golf ball size \n 1/2 cup water, repeat 3-4 times",
+        "step": "1 \nClean the fish, remove scales and guts. In a pot, bring 8 cups of water to boil. Add in the fish and boil for about 10 minutes. Transfer the cooked fish out into a bowl and let cool. Strain the fish stock, then add in the peeled tamarind, and the polygonum leaves and continue to boil in low heat. \n2 \nWet your hands constantly with a bowl of water, pick the flesh out of all the fish and discard the bones. Break the fish meat into tiny pieces and put the fish back into the stock, cover the lid, and lower the heat. \n3 \nUsing a mini food processor, grind the spice paste until fine. Heat up a wok and saute the spice paste with cooking oil for about 6-8 minutes or until it smells aromatic and spicy. Transfer the spice paste into the boiling stock. \n4 \nExtract the tamarind juice and add it into the stock. Strain the tamarind juice and keep the seed. Repeat it 3-4 times with 1/2 cup of water each time to make sure you extract all the essence from the tamarind. Continue to taste your Assam Laksa stock to make sure it's sour and to your liking. For seasoning, add sugar, salt, and fish sauce. \n5 \nPrepare the laksa noodles by following the packaging instructions. In a serving bowl, add in the laksa noodles and garnish all vegetables on top. Pour the Assam Laksa soup into the bowl and serve immediately with a spoonful of Heh Ko/prawn paste.",
+        "image": "4",
+        "img": ""
+    }, {
+        "id": 5,
+        "catid": "3",
+        "name": "NASI ULAM",
+        "description": "It is utterly delicious, aromatic, healthy, and extremely appetizing, and great with a side dish of meat or fish. What’s more, it can be a complete meal on its own.",
+        "ingredient": "1/3 cup dried shrimp \n 1/2 cup fresh or frozen shredded coconut \n 2 cups cooked rice, chilled \n 5-6 medium daun kadok, wild betel leaves, finely sliced \n 1/4 cup Thai basil leaves, finely sliced \n 1/4 cup mint leaves, finely sliced \n 1/4 cup daun kesom, polygonum leaves/Vietnamese mint leaves, finely sliced \n 3 kaffir lime leaves, finely sliced \n 5 shallots, peeled and thinly sliced \n 1 lemongrass, white part only, thinly sliced \n 1 teaspoon salt \n 1 teaspoon sugar \n 3 dashes white pepper, powder \n 3 dashes black pepper powder",
+        "step": "1 Soak the dried shrimp in warm water until softened. Coarsely pound them using a mortar and pestle. Heat up a wok and dry toast the pounded shrimp until they are dry or smell aromatic. Do not burn the dried shrimp. \n2Make the shredded coconut into kerisik by stir-frying them continuously in a wok, until they turn golden brown in color. Transfer to the mortar and pestle and pound until fine. Set aside. \n3In a big bowl, combined the cooked rice and all the herbs, shallots, toasted coconut, and dried shrimp together. Add the salt, sugar, and peppers. Toss to combine well. Serve immediately.",
+        "image": "5",
+        "img": ""
+    }, {
+        "id": 6,
+        "catid": "4",
+        "name": "MEE GORENG",
+        "description": "one of the most popular fried noodle dishes in Malaysia and Indonesia. This Indian Mamak Mee Goreng recipe is authentic, easy and so good!",
+        "ingredient": "2 1/2 tablespoons cooking oil \n2 cloves garlic, minced \n1 potato, boiled, peeled, and sliced \n3 pieces fried bean curd (fried firm tofu) , cut into pieces \n4 squid, cleaned and cut into rings \n1 lb yellow noodles, rinsed and drained \n2 large eggs \n1 cup bean sprouts, rinsed and drained \nlettuce leaves, sliced, for garnishing \n1 lime, cut into wedges \nCHILI PASTE: \n \n10 dried red chilies \n1 1/2 tablespoons cooking oil \n1 tablespoon water \nSAUCE: \n \n2 tablespoons soy sauce \n2 tablespoons dark soy sauce or kecap manis \n3 tablespoons tomato ketchup \nSugar, to taste",
+        "step": "Combine all the ingredients in Chili Paste and blend well using a food processor. \nHeat a wok and add tumis or stir fry the Chili Paste until the oil separates from chili. Set aside. \nIn a small bowl, combine all the ingredients of the Sauce together. Set aside. \nHeat up a wok on high heat and add 2 tablespoons of cooking oil. Add the garlic, 3 tablespoons of Chili Paste, potatoes, bean curd and squid. Stir fry until fragrant. Add the yellow noodles and the Sauce and continue stirring. Push the noodles to the side of the wok. \nAdd the remaining 1/2 tablespoon cooking oil and crack the eggs on top of the oil. Scramble the eggs and mix in with the noodles. Add the bean sprouts and quick stir for about 1 minute. \nDish out and garnish with sliced lettuce leaves and lime wedges. Squeeze some lime juice all over the noodles before serving.",
+        "image": "6",
+        "img": ""
+    }, {
+        "id": 7,
+        "catid": "4",
+        "name": "SAMBAL TELUR",
+        "description": "egg sambal is a Malay concoction. I usually fry up a huge batch of sambal in oil until it reaches the perfect texture, flavor, and consistency and then I’d store my sambal in the fridge for days or even weeks",
+        "ingredient": " \n 4 hard boiled eggs \n 2 - 3 tablespoons sambal \nCooked Sambal: \n 6 oz. fresh red chilies (seeded and cut into small pieces \n 1 tablespoon toasted belacan, Malaysian shrimp paste \n 4 oz. shallots \n 1/4 teaspoon salt or to taste \n 2 teaspoons fish sauce \n 2 1/2 teaspoons sugar/ palm sugar or to taste \n 4 tablespoons oil \n 1/2 onion, cut into rings",
+        "step": "1 \nPrepare the sambal by grinding chilies, shallots, and toasted belacan in a mini food processor. Make sure the sambal paste is well blended and smooth. \n2 \nHeat up a wok with oil and “tumis” (sauté) the sambal paste and onion rings until aromatic or when the oil separates from the sambal paste. Add the seasonings: salt, sugar/palm sugar, and fish sauce and do a quick stir, dish out and set aside. \n3 \nTo make sambal telur, add 2-3 tablespoons of sambal back into the wok plus peeled hard boiled eggs. Make sure the eggs are nicely coated with the sambal. Dish out and serve hot.",
+        "image": "7",
+        "img": ""
+    }, {
+        "id": 8,
+        "catid": "4",
+        "name": "Roti JALA",
+        "description": "Roti Jala with Sambal Udang recipe -prawn sambal is delicious, especially when served with lacy pancakes roti jala.",
+        "ingredient": "\n 5 tablespoons sambal (https://rasamalaysia.com/sambal-belacan/) \n 1 quarter medium-sized onion \n 10 shrimps, peeled and deveined \n salt to taste \n sugar to taste \n 1 teaspoon tamarind pulp, soaked with 1/4 cup of warm water and extract the juice \n 1 teaspoon cooking oil",
+        "step": "Heat up a wok with cooking oil and add the onions. Saute the onions until aromatic, then add in the sambal and prawn. \n \nAdd tamarind juice and bring the sambal udang to boil. Add salt and sugar to taste. Serve hot with roti jala/lacy pancakes.",
+        "image": "8",
+        "img": ""
+    }, {
+        "id": 9,
+        "catid": "5",
+        "name": "SHRIMP FRITTERS",
+        "description": "the Korean version of Japanese “maki,” or rice rolls. The flavor comes from sesame oil and individually seasoned meats and veggies.",
+        "ingredient": "6-7 sheets dried laver seaweed \n1 bag ready to use spinach (9 oz-10 oz) \n1 log of yellow pickled radish, or “danmuji” \n1 large carrot, or 2 medium sized carrots, peeled \n5 eggs \nkosher salt, divided \nsesame oil, divided \nolive oil, divided \nroasted sesame seeds, divided \nBEEF INGREDIENTS: \n \n1 lb ground beef \n2 cloves garlic, finely minced \n3 tablespoons soy sauce \n2 tablespoons sugar \n2 teaspoons sesame oil \nRICE INGREDIENTS: \n \n6 cups cooked, 3 cups uncooked short grain or sushi rice \n½ tablespoon sesame oil \n½ tablespoon olive oil \n½ tablespoon sesame seeds \n¼-½ teaspoon kosher salt, or to taste",
+        "step": "In a bowl, combine all the ingredients for the beef. Mix everything together by hand and set it aside to marinate while you prepare the other ingredients. When all the other ingredients are prepped, and the beef has had time to marinate, heat a large pan with some olive oil and fry the beef until it is nicely browned. Remove the beef with a slotted spoon into a bowl and set aside.\nAdd the entire 9 or 10 oz bag of ready to use spinach in salted boiling water. Boil for 30 seconds, and drain. Run cold water over it to stop the cooking, and squeeze out all the excess moisture with your hand. Transfer to a bowl and season with 1 teaspoon sesame oil, and a couple pinches of kosher salt. Mix well. Set aside.\nSlice the log of radish into ½” thick slices. Cut each slice into strips, so that you end up with thin long strips, about ½” thick in diameter. Set aside.",
+        "image": "9",
+        "img": ""
+    },
+    {
+        "id": 10,
+        "catid": "5",
+        "name": "CHICKEN SATAY",
+        "description": "Spice up your dumplings by adding kimchi to make juicy, plump and delicious dumplings that you just can't stop eating!!",
+        "ingredient": "1 pack dumpling wrappers, round-shaped \n Oil for pan-frying \nFor the Filling: \n 1 oz bunch Korean dried sweet potato noodles \n 8 oz ground pork \n 2 oz kimchi, squeeze and discard the excess kimchi juice and then finely sliced \n 1 teaspoon grated ginger \n 1 tablespoon chopped scallion \n 2 tablespoons soy sauce \n 1 teaspoon rice wine \n 1/2 teaspoon sesame oil \n 3 dashes white pepper \n 1 pinch salt \nDipping Sauce: \n Chinese black vinegar or Japanese ponzu for dipping \n Chopped Scallion \n Sesame seeds",
+        "step": "1 Cook the sweet potato noodles by following the packaging instructions. Once cooked, rinse with cold water, drained, pat dry with paper towels and roughly chopped them into short strands. \n2 Make the Dipping Sauce by combining all ingredients together in a small dip bowl. Set aside. \n3 Combine the chopped sweet potato noodles with the rest of the Filling ingredients. Stir to combine well until the filling becomes sticky and all mixed together.",
+        "image": "10",
+        "img": ""
+    },
+    {
+        "id": 11,
+        "catid": "5",
+        "name": "PEANUT SAUCE",
+        "description": "Bulgogi and Bulgogi recipe. Bulgogi is marinated meat dish with Korean red chili paste. Anyone can make bulgogi with this easy bulgogi recipe",
+        "ingredient": "1 pound thinly sliced pork belly, or pork shoulder \n 1/2 medium onion, thinly sliced \n 2 - 3 scallions, roughly chopped \nMarinade: \n 3 tablespoons Korean red chili pepper paste*, gochujang \n 1 tablespoon Korean red chili pepper flakes, gochugaru \n 2 tablespoons soy sauce \n 2 tablespoons rice wine, or mirin \n 2 tablespoons sugar \n 1 tablespoon sesame oil \n 1 tablespoon minced garlic \n 1 tablespoon grated ginger \n 1/8 teaspoon black pepper",
+        "step": "Mix all marinade ingredients well.\nCut the pork belly into bite size pieces (about 2-inch long).\nCombine the meat, onion, and scallions with the marinade and mix well. Marinate for at least an hour.\nHeat a grill pan or a skillet over medium high heat and add the pork slices. Cook until the pork is cooked through and slightly caramelized, turning over once.",
+        "image": "11",
+        "img": ""
+    }, {
+        "id": 12,
+        "catid": "6",
+        "name": "ITALIAN SHRIMP PASTA",
+        "description": "Roti Jala, lacy pancakes. So yummy with chicken curry.",
+        "ingredient": " 1 3/4 cup all-purpose flour (1/2 lb) \n 1 1/2 cup low fat milk \n 1/2 cup water \n 1 egg \n 1/2 teaspoon salt \n 3/4 teaspoon turmeric powder \n 1/2 tablespoon oil or butter to grease the pan \nRecipe: Malaysian Chicken Curry \n 1 boneless/skinless chicken breast meat, cut into small cubes \n 3 tablespoons Instant Meat Curry Paste \n 3/4 cup water \n 1 tablespoon coconut milk \n 1 shallot, diced 1 tablespoon oil",
+        "step": "Sieve the flour and set aside. \n2 \nIn a big bowl, mix all the ingredients well together (except the oil) and strain the batter. \n3 \nAdd in 1/2 tablespoon of oil and set aside. \n4 \nHeat up a pan with medium heat and grease it with some butter or ghee. \n5 \nPour some batter into the mold and transfer the mold to the pan. \n6 \nAs the batter flows through the holes of the mold, make circular rounds around the pan to form the netty patterns. (Refer to the video above.) \n7 \nAfter the top is set and done or when the bottom turns light brown, transfer the Roti Jala out and fold it into triangle shape. \n8 \nArrange a few Roti Jala on a serving plate and add some curry chicken on the side and serve immediately. \nRecipe: Malaysian Chicken Curry \n1 \nHeat up a small pot and add in the oil. \n2 \nSaute the diced shallots until light brown. \n3 \nAdd in the curry paste. \n4 \nWhen it smells aromatic, add in the chicken meat and do a few quick stirs. \n5 \nAdd in the water and let it boil. \n6 \nLower the heat and simmer the curry for about 10-15 minutes. \n7 \nAdd in the coconut milk and serve hot.",
+        "image": "12",
+        "img": ""
+    }, {
+        "id": 13,
+        "catid": "6",
+        "name": "CHICKEN AND POTATO SKILLET",
+        "description": "spicy and sour fish noodles, one of the most famous noodle dish from Malaysia",
+        "ingredient": "1 lb Mackerel fish \n 8 cups water \n 5 pieces assam keping, peeled tamarind \n 1 pack dried laksa noodles \nSpice Paste: \n 12 dried red chilies, seeded \n 5 fresh red chilies, seeded \n 8 small shallots \n 2 teaspoons belacan \n 1 stalk lemongrass, use only the white part, about 6 inches \nTamarind Juice: \n Tamarind, about golf ball size \n 1/2 cup water, repeat 3-4 times",
+        "step": "1 \nClean the fish, remove scales and guts. In a pot, bring 8 cups of water to boil. Add in the fish and boil for about 10 minutes. Transfer the cooked fish out into a bowl and let cool. Strain the fish stock, then add in the peeled tamarind, and the polygonum leaves and continue to boil in low heat. \n2 \nWet your hands constantly with a bowl of water, pick the flesh out of all the fish and discard the bones. Break the fish meat into tiny pieces and put the fish back into the stock, cover the lid, and lower the heat. \n3 \nUsing a mini food processor, grind the spice paste until fine. Heat up a wok and saute the spice paste with cooking oil for about 6-8 minutes or until it smells aromatic and spicy. Transfer the spice paste into the boiling stock. \n4 \nExtract the tamarind juice and add it into the stock. Strain the tamarind juice and keep the seed. Repeat it 3-4 times with 1/2 cup of water each time to make sure you extract all the essence from the tamarind. Continue to taste your Assam Laksa stock to make sure it's sour and to your liking. For seasoning, add sugar, salt, and fish sauce. \n5 \nPrepare the laksa noodles by following the packaging instructions. In a serving bowl, add in the laksa noodles and garnish all vegetables on top. Pour the Assam Laksa soup into the bowl and serve immediately with a spoonful of Heh Ko/prawn paste.",
+        "image": "13",
+        "img": ""
+    }, {
+        "id": 14,
+        "catid": "6",
+        "name": "HONEY GARLIC PORK CHOPS",
+        "description": "It is utterly delicious, aromatic, healthy, and extremely appetizing, and great with a side dish of meat or fish. What’s more, it can be a complete meal on its own.",
+        "ingredient": "1/3 cup dried shrimp \n 1/2 cup fresh or frozen shredded coconut \n 2 cups cooked rice, chilled \n 5-6 medium daun kadok, wild betel leaves, finely sliced \n 1/4 cup Thai basil leaves, finely sliced \n 1/4 cup mint leaves, finely sliced \n 1/4 cup daun kesom, polygonum leaves/Vietnamese mint leaves, finely sliced \n 3 kaffir lime leaves, finely sliced \n 5 shallots, peeled and thinly sliced \n 1 lemongrass, white part only, thinly sliced \n 1 teaspoon salt \n 1 teaspoon sugar \n 3 dashes white pepper, powder \n 3 dashes black pepper powder",
+        "step": "1 Soak the dried shrimp in warm water until softened. Coarsely pound them using a mortar and pestle. Heat up a wok and dry toast the pounded shrimp until they are dry or smell aromatic. Do not burn the dried shrimp. \n2Make the shredded coconut into kerisik by stir-frying them continuously in a wok, until they turn golden brown in color. Transfer to the mortar and pestle and pound until fine. Set aside. \n3In a big bowl, combined the cooked rice and all the herbs, shallots, toasted coconut, and dried shrimp together. Add the salt, sugar, and peppers. Toss to combine well. Serve immediately.",
+        "image": "14",
+        "img": ""
+    }, {
+        "id": 15,
+        "catid": "7",
+        "name": "CILANTRO LIME CHICKEN",
+        "description": "one of the most popular fried noodle dishes in Malaysia and Indonesia. This Indian Mamak Mee Goreng recipe is authentic, easy and so good!",
+        "ingredient": "2 1/2 tablespoons cooking oil \n2 cloves garlic, minced \n1 potato, boiled, peeled, and sliced \n3 pieces fried bean curd (fried firm tofu) , cut into pieces \n4 squid, cleaned and cut into rings \n1 lb yellow noodles, rinsed and drained \n2 large eggs \n1 cup bean sprouts, rinsed and drained \nlettuce leaves, sliced, for garnishing \n1 lime, cut into wedges \nCHILI PASTE: \n \n10 dried red chilies \n1 1/2 tablespoons cooking oil \n1 tablespoon water \nSAUCE: \n \n2 tablespoons soy sauce \n2 tablespoons dark soy sauce or kecap manis \n3 tablespoons tomato ketchup \nSugar, to taste",
+        "step": "Combine all the ingredients in Chili Paste and blend well using a food processor. \nHeat a wok and add tumis or stir fry the Chili Paste until the oil separates from chili. Set aside. \nIn a small bowl, combine all the ingredients of the Sauce together. Set aside. \nHeat up a wok on high heat and add 2 tablespoons of cooking oil. Add the garlic, 3 tablespoons of Chili Paste, potatoes, bean curd and squid. Stir fry until fragrant. Add the yellow noodles and the Sauce and continue stirring. Push the noodles to the side of the wok. \nAdd the remaining 1/2 tablespoon cooking oil and crack the eggs on top of the oil. Scramble the eggs and mix in with the noodles. Add the bean sprouts and quick stir for about 1 minute. \nDish out and garnish with sliced lettuce leaves and lime wedges. Squeeze some lime juice all over the noodles before serving.",
+        "image": "15",
+        "img": ""
+    }, {
+        "id": 16,
+        "catid": "7",
+        "name": "CILANTRO LIME RICE",
+        "description": "egg sambal is a Malay concoction. I usually fry up a huge batch of sambal in oil until it reaches the perfect texture, flavor, and consistency and then I’d store my sambal in the fridge for days or even weeks",
+        "ingredient": " \n 4 hard boiled eggs \n 2 - 3 tablespoons sambal \nCooked Sambal: \n 6 oz. fresh red chilies (seeded and cut into small pieces \n 1 tablespoon toasted belacan, Malaysian shrimp paste \n 4 oz. shallots \n 1/4 teaspoon salt or to taste \n 2 teaspoons fish sauce \n 2 1/2 teaspoons sugar/ palm sugar or to taste \n 4 tablespoons oil \n 1/2 onion, cut into rings",
+        "step": "1 \nPrepare the sambal by grinding chilies, shallots, and toasted belacan in a mini food processor. Make sure the sambal paste is well blended and smooth. \n2 \nHeat up a wok with oil and “tumis” (sauté) the sambal paste and onion rings until aromatic or when the oil separates from the sambal paste. Add the seasonings: salt, sugar/palm sugar, and fish sauce and do a quick stir, dish out and set aside. \n3 \nTo make sambal telur, add 2-3 tablespoons of sambal back into the wok plus peeled hard boiled eggs. Make sure the eggs are nicely coated with the sambal. Dish out and serve hot.",
+        "image": "16",
+        "img": ""
+    }, {
+        "id": 17,
+        "catid": "7",
+        "name": "TEQUILA LIME SHRIMP",
+        "description": "Roti Jala with Sambal Udang recipe -prawn sambal is delicious, especially when served with lacy pancakes roti jala.",
+        "ingredient": "\n 5 tablespoons sambal (https://rasamalaysia.com/sambal-belacan/) \n 1 quarter medium-sized onion \n 10 shrimps, peeled and deveined \n salt to taste \n sugar to taste \n 1 teaspoon tamarind pulp, soaked with 1/4 cup of warm water and extract the juice \n 1 teaspoon cooking oil",
+        "step": "Heat up a wok with cooking oil and add the onions. Saute the onions until aromatic, then add in the sambal and prawn. \n \nAdd tamarind juice and bring the sambal udang to boil. Add salt and sugar to taste. Serve hot with roti jala/lacy pancakes.",
+        "image": "17",
+        "img": ""
+    },
+    {
+        "id": 18,
+        "catid": "8",
+        "name": "CHICKEN CURRY",
+        "description": "the Korean version of Japanese “maki,” or rice rolls. The flavor comes from sesame oil and individually seasoned meats and veggies.",
+        "ingredient": "6-7 sheets dried laver seaweed \n1 bag ready to use spinach (9 oz-10 oz) \n1 log of yellow pickled radish, or “danmuji” \n1 large carrot, or 2 medium sized carrots, peeled \n5 eggs \nkosher salt, divided \nsesame oil, divided \nolive oil, divided \nroasted sesame seeds, divided \nBEEF INGREDIENTS: \n \n1 lb ground beef \n2 cloves garlic, finely minced \n3 tablespoons soy sauce \n2 tablespoons sugar \n2 teaspoons sesame oil \nRICE INGREDIENTS: \n \n6 cups cooked, 3 cups uncooked short grain or sushi rice \n½ tablespoon sesame oil \n½ tablespoon olive oil \n½ tablespoon sesame seeds \n¼-½ teaspoon kosher salt, or to taste",
+        "step": "In a bowl, combine all the ingredients for the beef. Mix everything together by hand and set it aside to marinate while you prepare the other ingredients. When all the other ingredients are prepped, and the beef has had time to marinate, heat a large pan with some olive oil and fry the beef until it is nicely browned. Remove the beef with a slotted spoon into a bowl and set aside.\nAdd the entire 9 or 10 oz bag of ready to use spinach in salted boiling water. Boil for 30 seconds, and drain. Run cold water over it to stop the cooking, and squeeze out all the excess moisture with your hand. Transfer to a bowl and season with 1 teaspoon sesame oil, and a couple pinches of kosher salt. Mix well. Set aside.\nSlice the log of radish into ½” thick slices. Cut each slice into strips, so that you end up with thin long strips, about ½” thick in diameter. Set aside.",
+        "image": "18",
+        "img": ""
+    },
+    {
+        "id": 19,
+        "catid": "9",
+        "name": "SOY SAUCE",
+        "description": "Spice up your dumplings by adding kimchi to make juicy, plump and delicious dumplings that you just can't stop eating!!",
+        "ingredient": "1 pack dumpling wrappers, round-shaped \n Oil for pan-frying \nFor the Filling: \n 1 oz bunch Korean dried sweet potato noodles \n 8 oz ground pork \n 2 oz kimchi, squeeze and discard the excess kimchi juice and then finely sliced \n 1 teaspoon grated ginger \n 1 tablespoon chopped scallion \n 2 tablespoons soy sauce \n 1 teaspoon rice wine \n 1/2 teaspoon sesame oil \n 3 dashes white pepper \n 1 pinch salt \nDipping Sauce: \n Chinese black vinegar or Japanese ponzu for dipping \n Chopped Scallion \n Sesame seeds",
+        "step": "1 Cook the sweet potato noodles by following the packaging instructions. Once cooked, rinse with cold water, drained, pat dry with paper towels and roughly chopped them into short strands. \n2 Make the Dipping Sauce by combining all ingredients together in a small dip bowl. Set aside. \n3 Combine the chopped sweet potato noodles with the rest of the Filling ingredients. Stir to combine well until the filling becomes sticky and all mixed together.",
+        "image": "19",
+        "img": ""
+    },
+    {
+        "id": 20,
+        "catid": "10",
+        "name": "HOMEMADE PENANG ROJAK",
+        "description": "Bulgogi and Bulgogi recipe. Bulgogi is marinated meat dish with Korean red chili paste. Anyone can make bulgogi with this easy bulgogi recipe",
+        "ingredient": "1 pound thinly sliced pork belly, or pork shoulder \n 1/2 medium onion, thinly sliced \n 2 - 3 scallions, roughly chopped \nMarinade: \n 3 tablespoons Korean red chili pepper paste*, gochujang \n 1 tablespoon Korean red chili pepper flakes, gochugaru \n 2 tablespoons soy sauce \n 2 tablespoons rice wine, or mirin \n 2 tablespoons sugar \n 1 tablespoon sesame oil \n 1 tablespoon minced garlic \n 1 tablespoon grated ginger \n 1/8 teaspoon black pepper",
+        "step": "Mix all marinade ingredients well.\nCut the pork belly into bite size pieces (about 2-inch long).\nCombine the meat, onion, and scallions with the marinade and mix well. Marinate for at least an hour.\nHeat a grill pan or a skillet over medium high heat and add the pork slices. Cook until the pork is cooked through and slightly caramelized, turning over once.",
+        "image": "20",
+        "img": ""
+    }, {
+        "id": 21,
+        "catid": "11",
+        "name": "CHICKEN KEBAB",
+        "description": "Roti Jala, lacy pancakes. So yummy with chicken curry.",
+        "ingredient": " 1 3/4 cup all-purpose flour (1/2 lb) \n 1 1/2 cup low fat milk \n 1/2 cup water \n 1 egg \n 1/2 teaspoon salt \n 3/4 teaspoon turmeric powder \n 1/2 tablespoon oil or butter to grease the pan \nRecipe: Malaysian Chicken Curry \n 1 boneless/skinless chicken breast meat, cut into small cubes \n 3 tablespoons Instant Meat Curry Paste \n 3/4 cup water \n 1 tablespoon coconut milk \n 1 shallot, diced 1 tablespoon oil",
+        "step": "Sieve the flour and set aside. \n2 \nIn a big bowl, mix all the ingredients well together (except the oil) and strain the batter. \n3 \nAdd in 1/2 tablespoon of oil and set aside. \n4 \nHeat up a pan with medium heat and grease it with some butter or ghee. \n5 \nPour some batter into the mold and transfer the mold to the pan. \n6 \nAs the batter flows through the holes of the mold, make circular rounds around the pan to form the netty patterns. (Refer to the video above.) \n7 \nAfter the top is set and done or when the bottom turns light brown, transfer the Roti Jala out and fold it into triangle shape. \n8 \nArrange a few Roti Jala on a serving plate and add some curry chicken on the side and serve immediately. \nRecipe: Malaysian Chicken Curry \n1 \nHeat up a small pot and add in the oil. \n2 \nSaute the diced shallots until light brown. \n3 \nAdd in the curry paste. \n4 \nWhen it smells aromatic, add in the chicken meat and do a few quick stirs. \n5 \nAdd in the water and let it boil. \n6 \nLower the heat and simmer the curry for about 10-15 minutes. \n7 \nAdd in the coconut milk and serve hot.",
+        "image": "21",
+        "img": ""
+    }, {
+        "id": 22,
+        "catid": "11",
+        "name": "KABAB KOOBIDEH",
+        "description": "spicy and sour fish noodles, one of the most famous noodle dish from Malaysia",
+        "ingredient": "1 lb Mackerel fish \n 8 cups water \n 5 pieces assam keping, peeled tamarind \n 1 pack dried laksa noodles \nSpice Paste: \n 12 dried red chilies, seeded \n 5 fresh red chilies, seeded \n 8 small shallots \n 2 teaspoons belacan \n 1 stalk lemongrass, use only the white part, about 6 inches \nTamarind Juice: \n Tamarind, about golf ball size \n 1/2 cup water, repeat 3-4 times",
+        "step": "1 \nClean the fish, remove scales and guts. In a pot, bring 8 cups of water to boil. Add in the fish and boil for about 10 minutes. Transfer the cooked fish out into a bowl and let cool. Strain the fish stock, then add in the peeled tamarind, and the polygonum leaves and continue to boil in low heat. \n2 \nWet your hands constantly with a bowl of water, pick the flesh out of all the fish and discard the bones. Break the fish meat into tiny pieces and put the fish back into the stock, cover the lid, and lower the heat. \n3 \nUsing a mini food processor, grind the spice paste until fine. Heat up a wok and saute the spice paste with cooking oil for about 6-8 minutes or until it smells aromatic and spicy. Transfer the spice paste into the boiling stock. \n4 \nExtract the tamarind juice and add it into the stock. Strain the tamarind juice and keep the seed. Repeat it 3-4 times with 1/2 cup of water each time to make sure you extract all the essence from the tamarind. Continue to taste your Assam Laksa stock to make sure it's sour and to your liking. For seasoning, add sugar, salt, and fish sauce. \n5 \nPrepare the laksa noodles by following the packaging instructions. In a serving bowl, add in the laksa noodles and garnish all vegetables on top. Pour the Assam Laksa soup into the bowl and serve immediately with a spoonful of Heh Ko/prawn paste.",
+        "image": "22",
+        "img": ""
+    }, {
+        "id": 23,
+        "catid": "12",
+        "name": "HONEY GARLIC SALMON",
+        "description": "It is utterly delicious, aromatic, healthy, and extremely appetizing, and great with a side dish of meat or fish. What’s more, it can be a complete meal on its own.",
+        "ingredient": "1/3 cup dried shrimp \n 1/2 cup fresh or frozen shredded coconut \n 2 cups cooked rice, chilled \n 5-6 medium daun kadok, wild betel leaves, finely sliced \n 1/4 cup Thai basil leaves, finely sliced \n 1/4 cup mint leaves, finely sliced \n 1/4 cup daun kesom, polygonum leaves/Vietnamese mint leaves, finely sliced \n 3 kaffir lime leaves, finely sliced \n 5 shallots, peeled and thinly sliced \n 1 lemongrass, white part only, thinly sliced \n 1 teaspoon salt \n 1 teaspoon sugar \n 3 dashes white pepper, powder \n 3 dashes black pepper powder",
+        "step": "1 Soak the dried shrimp in warm water until softened. Coarsely pound them using a mortar and pestle. Heat up a wok and dry toast the pounded shrimp until they are dry or smell aromatic. Do not burn the dried shrimp. \n2Make the shredded coconut into kerisik by stir-frying them continuously in a wok, until they turn golden brown in color. Transfer to the mortar and pestle and pound until fine. Set aside. \n3In a big bowl, combined the cooked rice and all the herbs, shallots, toasted coconut, and dried shrimp together. Add the salt, sugar, and peppers. Toss to combine well. Serve immediately.",
+        "image": "23",
+        "img": ""
+    }, {
+        "id": 24,
+        "catid": "12",
+        "name": "BAKED COD",
+        "description": "one of the most popular fried noodle dishes in Malaysia and Indonesia. This Indian Mamak Mee Goreng recipe is authentic, easy and so good!",
+        "ingredient": "2 1/2 tablespoons cooking oil \n2 cloves garlic, minced \n1 potato, boiled, peeled, and sliced \n3 pieces fried bean curd (fried firm tofu) , cut into pieces \n4 squid, cleaned and cut into rings \n1 lb yellow noodles, rinsed and drained \n2 large eggs \n1 cup bean sprouts, rinsed and drained \nlettuce leaves, sliced, for garnishing \n1 lime, cut into wedges \nCHILI PASTE: \n \n10 dried red chilies \n1 1/2 tablespoons cooking oil \n1 tablespoon water \nSAUCE: \n \n2 tablespoons soy sauce \n2 tablespoons dark soy sauce or kecap manis \n3 tablespoons tomato ketchup \nSugar, to taste",
+        "step": "Combine all the ingredients in Chili Paste and blend well using a food processor. \nHeat a wok and add tumis or stir fry the Chili Paste until the oil separates from chili. Set aside. \nIn a small bowl, combine all the ingredients of the Sauce together. Set aside. \nHeat up a wok on high heat and add 2 tablespoons of cooking oil. Add the garlic, 3 tablespoons of Chili Paste, potatoes, bean curd and squid. Stir fry until fragrant. Add the yellow noodles and the Sauce and continue stirring. Push the noodles to the side of the wok. \nAdd the remaining 1/2 tablespoon cooking oil and crack the eggs on top of the oil. Scramble the eggs and mix in with the noodles. Add the bean sprouts and quick stir for about 1 minute. \nDish out and garnish with sliced lettuce leaves and lime wedges. Squeeze some lime juice all over the noodles before serving.",
+        "image": "24",
+        "img": ""
+    }, {
+        "id": 25,
+        "catid": "12",
+        "name": "GARLIC BUTTER CHICKEN TENDERS",
+        "description": "egg sambal is a Malay concoction. I usually fry up a huge batch of sambal in oil until it reaches the perfect texture, flavor, and consistency and then I’d store my sambal in the fridge for days or even weeks",
+        "ingredient": " \n 4 hard boiled eggs \n 2 - 3 tablespoons sambal \nCooked Sambal: \n 6 oz. fresh red chilies (seeded and cut into small pieces \n 1 tablespoon toasted belacan, Malaysian shrimp paste \n 4 oz. shallots \n 1/4 teaspoon salt or to taste \n 2 teaspoons fish sauce \n 2 1/2 teaspoons sugar/ palm sugar or to taste \n 4 tablespoons oil \n 1/2 onion, cut into rings",
+        "step": "1 \nPrepare the sambal by grinding chilies, shallots, and toasted belacan in a mini food processor. Make sure the sambal paste is well blended and smooth. \n2 \nHeat up a wok with oil and “tumis” (sauté) the sambal paste and onion rings until aromatic or when the oil separates from the sambal paste. Add the seasonings: salt, sugar/palm sugar, and fish sauce and do a quick stir, dish out and set aside. \n3 \nTo make sambal telur, add 2-3 tablespoons of sambal back into the wok plus peeled hard boiled eggs. Make sure the eggs are nicely coated with the sambal. Dish out and serve hot.",
+        "image": "25",
+        "img": ""
+    }, {
+        "id": 26,
+        "catid": "12",
+        "name": "BONELESS PORK CHOPS",
+        "description": "Roti Jala with Sambal Udang recipe -prawn sambal is delicious, especially when served with lacy pancakes roti jala.",
+        "ingredient": "\n 5 tablespoons sambal (https://rasamalaysia.com/sambal-belacan/) \n 1 quarter medium-sized onion \n 10 shrimps, peeled and deveined \n salt to taste \n sugar to taste \n 1 teaspoon tamarind pulp, soaked with 1/4 cup of warm water and extract the juice \n 1 teaspoon cooking oil",
+        "step": "Heat up a wok with cooking oil and add the onions. Saute the onions until aromatic, then add in the sambal and prawn. \n \nAdd tamarind juice and bring the sambal udang to boil. Add salt and sugar to taste. Serve hot with roti jala/lacy pancakes.",
+        "image": "26",
+        "img": ""
+    }
+]

@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.2.1)
+  - IQKeyboardManager (6.5.5)
+  - lottie-ios (3.1.8)
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2.1)
+  - IQKeyboardManager (~> 6.5.5)
+  - lottie-ios (~> 3.1.8)
+  - Material
+  - RxCocoa (~> 5.1.1)
+  - RxSwift (~> 5.1.1)
+  - SDWebImage (~> 5.8)
+  - SWXMLHash (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - lottie-ios
+    - Material
+    - Motion
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: 211c446504a3b88fac8f3c44ecb604358aa312ac
+
+COCOAPODS: 1.8.4
