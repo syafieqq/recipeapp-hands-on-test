@@ -25,13 +25,13 @@
 		A5025F7C24C0B19C00EF69A6 /* RecipeListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F7B24C0B19C00EF69A6 /* RecipeListCell.swift */; };
 		A5025F7E24C0C3B700EF69A6 /* AddRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F7D24C0C3B700EF69A6 /* AddRecipeVC.swift */; };
 		A5025F8024C0C3E500EF69A6 /* ViewRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F7F24C0C3E500EF69A6 /* ViewRecipeVC.swift */; };
-		A5025F8924C1440F00EF69A6 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F8624C1440F00EF69A6 /* CardView.swift */; };
-		A5025F8A24C1440F00EF69A6 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F8724C1440F00EF69A6 /* CustomButton.swift */; };
-		A5025F8B24C1440F00EF69A6 /* CustomImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F8824C1440F00EF69A6 /* CustomImage.swift */; };
 		A5025F8D24C1636A00EF69A6 /* MainNavigationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F8C24C1636A00EF69A6 /* MainNavigationVC.swift */; };
 		A5025F8F24C1C88600EF69A6 /* recipelistinitial.json in Resources */ = {isa = PBXBuildFile; fileRef = A5025F8E24C1C88600EF69A6 /* recipelistinitial.json */; };
 		A5025F9124C21F3600EF69A6 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F9024C21F3500EF69A6 /* RegisterVC.swift */; };
 		A5025F9324C21F6E00EF69A6 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5025F9224C21F6E00EF69A6 /* LoginVC.swift */; };
+		A51D39DA24C404F800C4C7BE /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51D39D724C404F800C4C7BE /* CardView.swift */; };
+		A51D39DB24C404F800C4C7BE /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51D39D824C404F800C4C7BE /* CustomButton.swift */; };
+		A51D39DC24C404F800C4C7BE /* CustomImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51D39D924C404F800C4C7BE /* CustomImage.swift */; };
 		A556C03124C2267E00084B8E /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A556C03024C2267E00084B8E /* Config.swift */; };
 		BEA5847D49AEE259985BBBFD /* Pods_RecipeApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAE081855CBADF2BD0794236 /* Pods_RecipeApp.framework */; };
 		F8FD9FA8BFCF6B26BFCBA1FE /* Pods_RecipeAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D6FD9551A95B62AA9B5A4FE /* Pods_RecipeAppTests.framework */; };
@@ -83,13 +83,13 @@
 		A5025F7B24C0B19C00EF69A6 /* RecipeListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListCell.swift; sourceTree = "<group>"; };
 		A5025F7D24C0C3B700EF69A6 /* AddRecipeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecipeVC.swift; sourceTree = "<group>"; };
 		A5025F7F24C0C3E500EF69A6 /* ViewRecipeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRecipeVC.swift; sourceTree = "<group>"; };
-		A5025F8624C1440F00EF69A6 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
-		A5025F8724C1440F00EF69A6 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
-		A5025F8824C1440F00EF69A6 /* CustomImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomImage.swift; sourceTree = "<group>"; };
 		A5025F8C24C1636A00EF69A6 /* MainNavigationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainNavigationVC.swift; sourceTree = "<group>"; };
 		A5025F8E24C1C88600EF69A6 /* recipelistinitial.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = recipelistinitial.json; sourceTree = "<group>"; };
 		A5025F9024C21F3500EF69A6 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		A5025F9224C21F6E00EF69A6 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		A51D39D724C404F800C4C7BE /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A51D39D824C404F800C4C7BE /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		A51D39D924C404F800C4C7BE /* CustomImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomImage.swift; sourceTree = "<group>"; };
 		A556C03024C2267E00084B8E /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		A89D28735FE19F2F3AC9B36C /* Pods-RecipeApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RecipeApp.release.xcconfig"; path = "Target Support Files/Pods-RecipeApp/Pods-RecipeApp.release.xcconfig"; sourceTree = "<group>"; };
 		AA92000847DE56F93E973F4A /* Pods-RecipeAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RecipeAppTests.release.xcconfig"; path = "Target Support Files/Pods-RecipeAppTests/Pods-RecipeAppTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -166,8 +166,8 @@
 				A5025F3624C02BE900EF69A6 /* AppDelegate.swift */,
 				A5025F3824C02BE900EF69A6 /* SceneDelegate.swift */,
 				A556C03224C2268B00084B8E /* Configs */,
-				A5025F8524C1440F00EF69A6 /* CustomUI */,
 				A5025F7524C08E5600EF69A6 /* Models */,
+				A51D39D624C404F800C4C7BE /* CustomUI */,
 				A5025F6F24C0882A00EF69A6 /* Views */,
 				A5025F7024C0883300EF69A6 /* Utils */,
 				A5025F7124C0885500EF69A6 /* Storyboards */,
@@ -255,15 +255,14 @@
 			path = Protocols;
 			sourceTree = "<group>";
 		};
-		A5025F8524C1440F00EF69A6 /* CustomUI */ = {
+		A51D39D624C404F800C4C7BE /* CustomUI */ = {
 			isa = PBXGroup;
 			children = (
-				A5025F8624C1440F00EF69A6 /* CardView.swift */,
-				A5025F8724C1440F00EF69A6 /* CustomButton.swift */,
-				A5025F8824C1440F00EF69A6 /* CustomImage.swift */,
+				A51D39D724C404F800C4C7BE /* CardView.swift */,
+				A51D39D824C404F800C4C7BE /* CustomButton.swift */,
+				A51D39D924C404F800C4C7BE /* CustomImage.swift */,
 			);
-			name = CustomUI;
-			path = ../../TheNoor/TheNoor/CustomUI;
+			path = CustomUI;
 			sourceTree = "<group>";
 		};
 		A556C03224C2268B00084B8E /* Configs */ = {
@@ -530,18 +529,18 @@
 				A5025F6C24C087F000EF69A6 /* HomeVC.swift in Sources */,
 				A5025F6E24C0882200EF69A6 /* Helper.swift in Sources */,
 				A5025F9324C21F6E00EF69A6 /* LoginVC.swift in Sources */,
-				A5025F8A24C1440F00EF69A6 /* CustomButton.swift in Sources */,
 				A5025F7924C0AF3D00EF69A6 /* SegueHandler.swift in Sources */,
 				A5025F7424C08E4D00EF69A6 /* Model.swift in Sources */,
 				A5025F3924C02BE900EF69A6 /* SceneDelegate.swift in Sources */,
-				A5025F8924C1440F00EF69A6 /* CardView.swift in Sources */,
+				A51D39DC24C404F800C4C7BE /* CustomImage.swift in Sources */,
 				A5025F9124C21F3600EF69A6 /* RegisterVC.swift in Sources */,
 				A556C03124C2267E00084B8E /* Config.swift in Sources */,
 				A5025F4124C02BE900EF69A6 /* RecipeApp.xcdatamodeld in Sources */,
 				A5025F7E24C0C3B700EF69A6 /* AddRecipeVC.swift in Sources */,
-				A5025F8B24C1440F00EF69A6 /* CustomImage.swift in Sources */,
 				A5025F8D24C1636A00EF69A6 /* MainNavigationVC.swift in Sources */,
+				A51D39DB24C404F800C4C7BE /* CustomButton.swift in Sources */,
 				A5025F8024C0C3E500EF69A6 /* ViewRecipeVC.swift in Sources */,
+				A51D39DA24C404F800C4C7BE /* CardView.swift in Sources */,
 				A5025F7C24C0B19C00EF69A6 /* RecipeListCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
